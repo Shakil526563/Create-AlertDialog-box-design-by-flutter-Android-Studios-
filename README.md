@@ -1,6 +1,6 @@
-# aleardialoge
+# aleardialog
 
-A new Flutter project.
+A new Flutter project.Include one screenshot 
 
 ## Getting Started
 
